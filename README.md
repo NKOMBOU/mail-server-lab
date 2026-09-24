@@ -1,2 +1,2 @@
-# mail-server-lab
-Complete mail server — Postfix + Dovecot + Roundcube webmail | Ubuntu Server
+# zimbra-mail-server-lab
+Complete mail server with Zimbra — DNS integration, IMAP/POP3, Webmail | Ubuntu Server
